@@ -1,6 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Sanskriti</h1>
-
-## 💫 About Me
+## 💫 About Me:
 
 Hi, I'm Sanskriti, a 4th-year B.Tech Computer Science Engineering student at PES University. I'm passionate about machine learning, data analytics, generative AI, and building systems that automate the tedious parts of engineering so people can focus on harder problems.
 
